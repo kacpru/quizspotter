@@ -1,0 +1,402 @@
+[
+	{
+		"t": [
+			"quizspotter"
+		],
+		"q": "Co należy zrobić po kliknięciu na wybraną odpowiedź?",
+		"a": [
+			"wysłać odpowiedź „zamykając kłódkę”",
+			"podpowiedzieć koledze",
+			"krzyknąć „mam!”",
+			"czekać na koniec rundy"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"quizspotter"
+		],
+		"q": "Ile pytań liczy nasza gra?",
+		"a": [
+			"21",
+			"za mało",
+			"13",
+			"10"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"quizspotter"
+		],
+		"q": "Ile czasu mamy na odpowiedź?",
+		"a": [
+			"30 sekund",
+			"1 minutę",
+			"mgnienie oka",
+			"całe życie"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"montaż"
+		],
+		"q": "Które z wymienionych akcesoriów do modelu Q7 ma najkrótszy czas montażu w jednostkach czasu?",
+		"a": [
+			"czasza lusterka zewnętrznego",
+			"nakładki na pedały ze stali nierdzewnej",
+			"tylne światła LED",
+			"uchwyt na rowery"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "przeczytac czasy od najkrutszego do najdluzszego"
+		}
+	},
+	{
+		"t": [
+			"system rozrywki"
+		],
+		"q": "Jaką rozdzielczość ma ekran w systemie Audi Entertainment mobile dla modelu Q7 ?",
+		"a": [
+			"1200x800",
+			"800x600",
+			"1920x1080",
+			"1024x768"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o produkcie"
+		}
+	},
+	{
+		"t": [
+			"środki pielęgnacyjne"
+		],
+		"q": "Do czego służy przedstawiony na zdjęciu preparat ?",
+		"a": [
+			" do czyszczenia tworzyw sztucznych",
+			"do usuwania owadów",
+			" do pielęgnacji tworzyw sztucznych\r",
+			"do konserwacji skóry\r"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"kompatybilność"
+		],
+		"q": "W przypadku wyposażenia modelu Q5 w zagłówki elektryczne, nie jest możliwe zainstalowanie:",
+		"a": [
+			"wieszaka",
+			"torby do tyłu samochodu",
+			"lusterka dziecięcego",
+			"fotelika niemowlęcego na tylnej kanapie"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"dane techniczne"
+		],
+		"q": "W jakiej wersji NIE występuje Bagażnik na narty i bagażnik dachowy do modelu Q5 ?",
+		"a": [
+			"260 L",
+			"300 L",
+			"360 L",
+			"405 L"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o produkcie,"
+		}
+	},
+	{
+		"t": [
+			"dane techniczne"
+		],
+		"q": "Jaki udźwig ma uchwyt na kajak do modelu Q7 ?",
+		"a": [
+			"45kg",
+			"25kg",
+			"65kg",
+			"85kg"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"motaż"
+		],
+		"q": "Wstawka atrapy chłodnicy do modelu Q7 wymaga dodatkowego zamówienia:",
+		"a": [
+			"taśmy klejącej",
+			"taśmy maskującej",
+			"taśmy uszczelniającej",
+			"taśmy izolacyjnej"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "skomentowac ze nie mozna jej zamontowac  modelu e-tron"
+		}
+	},
+	{
+		"t": [
+			"kompatybilność"
+		],
+		"q": "Przedstawione na zdjęciu aluminiowe koło odlewane o 10-ramiennym wzorze Talea, nie może być stosowane w samochodzie z jednostką napędową:",
+		"a": [
+			" 2.0 TFSI e-tron",
+			"3.0 TFSI",
+			"3.0 TDI",
+			"SQ7 TDI"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o tym silniku"
+		}
+	},
+	{
+		"t": [
+			"szacowanie"
+		],
+		"q": "Jaką pojemność ma przedstawiony na zdjęciu środek do czyszczenia z aktywną pianą\r?",
+		"a": [
+			"300ml",
+			"250ml",
+			"500ml",
+			"750ml"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"oferta"
+		],
+		"q": "Jaki produkt NIE znajduje się w ofercie środków pielęgnacyjnych AUDI ?",
+		"a": [
+			"mleczko do czyszczenia osadów mineralnych ",
+			"politura do szkła",
+			"szampon woskujący",
+			"wosk polimerowy"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"akcesoria"
+		],
+		"q": "Jaki produkt widzieliśmy na zdjęciu?",
+		"a": [
+			"ściągaczke do wody",
+			"skrobaczkę do lodu",
+			"fragment uszczelki",
+			"część zestawu do pielęgnacji skóry"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"produkty"
+		],
+		"q": "Z ilu części składa się zestaw do pielęgnacji skóry?",
+		"a": [
+			"4",
+			"3",
+			"5",
+			"2"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "wymienic z czego sie sklada"
+		}
+	},
+	{
+		"t": [
+			"akcesoria"
+		],
+		"q": "W ofercie środków pielęgnacyjnych NIE znajdziemy rękawiczek:",
+		"a": [
+			"do czyszczenia tapicerki",
+			"do pielęgnacji kokpitu",
+			"do usuwania insektów",
+			"do czyszczenia szyb"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"chemia i fizyka"
+		],
+		"q": "Środek przeciwmroźny który widzieliśmy na zdjęciu, działa do temperatury:",
+		"a": [
+			"-70  °C",
+			"-60  °C",
+			"-50  °C",
+			"-40  °C"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o tym co to za substancja"
+		}
+	},
+	{
+		"t": [
+			"środki pielęgnacyjne"
+		],
+		"q": "Zimowa torba ze środkami pielęgnacyjnym NIE zawiera:",
+		"a": [
+			"środka do czyszczenia felg",
+			"środka do czyszczenia z aktywną piąną",
+			"środka do usuwania owadów",
+			"wosku polimerowego"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"preparaty pielęgnacyjne"
+		],
+		"q": "Na zdjęciu widzieliśmy zestaw do czyszczenia:",
+		"a": [
+			"obręczy",
+			"szyb",
+			"bagażnika",
+			"kokpitu"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"montaż"
+		],
+		"q": "Jaki jest najdłuższy czas montażu (w jednostkach czasu) występujący w katalogu akcesoriów do modelu Q7 ?",
+		"a": [
+			"500",
+			"750",
+			"250",
+			"1000"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "opowiedziec co to za produkt"
+		}
+	},
+	{
+		"t": [
+			"wzory produktów"
+		],
+		"q": "Aluminiowa obręcz odlewana, którą widzeliśmy to wzór o nazwie:",
+		"a": [
+			"Falx\r",
+			" Avius",
+			"Vox",
+			"Wing"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o produkcie"
+		}
+	},
+	{
+		"t": [
+			"kompatybliność"
+		],
+		"q": "W modelu Q7 e-tron nie można zamontować:",
+		"a": [
+			"stopnia",
+			"uchwytu na rowery",
+			"kompletu osłon nadkoli",
+			"nakładki na pedały ze stali nierdzewnej"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"specyfikacja"
+		],
+		"q": "Jaka jest maksymalna ilość urządzeń z obsługą WLAN które mogą połączyć się z Audi wireless internet access z LTE?",
+		"a": [
+			"8",
+			"2",
+			"4",
+			"16"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "cos o produkcie"
+		}
+	},
+	{
+		"t": [
+			"oferta"
+		],
+		"q": "W katalogu akcesoriów do modelu Q7 NIE znajdziemy:",
+		"a": [
+			"breloka do kluczy",
+			"karty SD",
+			"pluszowej maskotki",
+			"słuchawek"
+		],
+		"trivia": {
+			"pre": "",
+			"post": ""
+		}
+	},
+	{
+		"t": [
+			"oferta"
+		],
+		"q": "Duży, mały, średni, bardzo duży. W takich 4 rozmiarach w katalogu wyposażenia modelu Q7 występuje:",
+		"a": [
+			"Pas ochronny dla psa",
+			"Folia dekoracyjna gekon technologiczny\r",
+			"Uchwyt na kajak",
+			"Torba do bagażnika dachowego"
+		],
+		"trivia": {
+			"pre": "",
+			"post": "powiedziec w ilu rozmairach wystepuja te inne rzeczy"
+		}
+	}
+]
